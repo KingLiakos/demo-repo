@@ -1,2 +1,3 @@
 # demo-repo
-Demo for Git-Hub
+
+Learning New stuff kinda rough thought!
